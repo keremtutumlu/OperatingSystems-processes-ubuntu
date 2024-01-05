@@ -1,0 +1,1 @@
+Makefile ile dizine geldiğimizde make yazıldığında gerekli dosyaların exelerinin üretimi sağlanmıştır. Girdi şekillerinin nasıl olması gerektiği hata kontrolü ile açıklanmıştır. MakeNum.c ile gerekli dosyalar ve sayıların üretimi sağlanmıştır. 
